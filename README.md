@@ -118,31 +118,38 @@ Here are the key visualizations created. In a live project, these would be embed
 
 * **Average Daily Time in Activity Zones (Minutes) (Pie Chart)**
     ![Average Daily Time in Activity Zones](Average_Daily_Time_in_Activity_Zones.png)
-    *Visually emphasizes the large proportion of time users spend in sedentary activities, compared to very or fairly active minutes. (Note: Labeling issues have been addressed in the revised R code).*
+
+  *Visually emphasizes the large proportion of time users spend in sedentary activities, compared to very or fairly active minutes. (Note: Labeling issues have been addressed in the revised R code).*
 
 * **Average Total Steps by Day of the Week (Bar Chart)**
-    ![Average Total Steps by Day of the Week](images/image_2fbb83.png)
-    *Clearly shows the variations in average steps across different days, highlighting more active weekdays/weekend days.*
+    ![Average Total Steps by Day of the Week](Average_Total_Steps_by_Day_of_the_Week.png)
+
+  *Clearly shows the variations in average steps across different days, highlighting more active weekdays/weekend days.*
 
 * **User Distribution by Sedentary Activity Level (Donut Chart)**
-    ![User Distribution by Sedentary Activity Level](images/WhatsApp_Image_2025-07-18_at_16.54.21_6dd36915.jpg)
-    *Segments the user base, revealing that a large portion falls into highly or moderately sedentary categories.*
+    ![User Distribution by Sedentary Activity Level](User_Distribution_by_Sedentary_Activity_Level.png)
+
+  *Segments the user base, revealing that a large portion falls into highly or moderately sedentary categories.*
 
 * **Average Steps Throughout the Day (Hourly) (Line Graph)**
-    ![Average Steps Throughout the Day (Hourly)](images/WhatsApp_Image_2025-07-18_at_17.13.59_0592d00d.jpg)
-    *Pinpoints the specific hours of the day when users are most active, showing morning and evening peaks.*
+    ![Average Steps Throughout the Day (Hourly)](Average_Steps_Throughout_the_Day.png)
+
+  *Pinpoints the specific hours of the day when users are most active, showing morning and evening peaks.*
 
 * **Average Heart Rate Throughout the Day (Hourly) (Line Graph)**
-    ![Average Heart Rate Throughout the Day (Hourly)](images/WhatsApp_Image_2025-07-18_at_17.14.41_7f3f57f5.jpg)
-    *Shows how heart rate fluctuates throughout the day, generally aligning with activity patterns.*
+    ![Average Heart Rate Throughout the Day (Hourly)](Average_Heart_Rate_Throughout_the_Day.png)
+
+  *Shows how heart rate fluctuates throughout the day, generally aligning with activity patterns.*
 
 * **Relationship Between Total Steps and Calories Burned (Scatter Plot)**
-    ![Relationship Between Total Steps and Calories Burned](images/WhatsApp_Image_2025-07-18_at_17.15.32_0d0606a7.jpg)
-    *Visualizes the positive correlation, showing that more steps lead to more calories burned.*
+    ![Relationship Between Total Steps and Calories Burned](Relationship_Between_Total_Steps.png)
+
+  *Visualizes the positive correlation, showing that more steps lead to more calories burned.*
 
 * **Relationship Between Total Active Minutes and Calories Burned (Scatter Plot)**
-    ![Relationship Between Total Active Minutes and Calories Burned](images/image_2ee608.png)
-    *Further reinforces the positive relationship between overall active time and calorie expenditure.*
+    ![Relationship Between Total Active Minutes and Calories Burned](Relationship_Between_Total_Active.png)
+
+  *Further reinforces the positive relationship between overall active time and calorie expenditure.*
 
 These visualizations confirm the trends identified in the analysis and provide a clear picture of smart device usage habits.
 
