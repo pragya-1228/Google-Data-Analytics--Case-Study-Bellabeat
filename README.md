@@ -112,11 +112,12 @@ Data visualizations were created using `ggplot2` in R to effectively communicate
 Here are the key visualizations created. In a live project, these would be embedded or linked to the actual image files:
 
 * **Average Daily Steps and Calories (Bar Chart)**
-    ![Average Daily Steps and Calories](AverageDailyStepsandCalories.png)
-    *Provides a high-level overview of typical daily activity.*
+    ![Average Daily Steps and Calories](Average_Daily_Steps_and_Calories.png)
+
+  *Provides a high-level overview of typical daily activity.*
 
 * **Average Daily Time in Activity Zones (Minutes) (Pie Chart)**
-    ![Average Daily Time in Activity Zones](images/image_2fbbe8.png)
+    ![Average Daily Time in Activity Zones](Average_Daily_Time_in_Activity_Zones.png)
     *Visually emphasizes the large proportion of time users spend in sedentary activities, compared to very or fairly active minutes. (Note: Labeling issues have been addressed in the revised R code).*
 
 * **Average Total Steps by Day of the Week (Bar Chart)**
